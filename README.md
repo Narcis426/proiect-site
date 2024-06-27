@@ -1,4 +1,4 @@
-As dori sa creezi partea de logare, folosind tabelele users si user_types din baza de date. La utilizatorul normal, dupa logare as dori sa fie redirectionat spre pagina home.php, iar la admin as dori sa fie redirectionat spre pagina indexadmin.php.
+As dori sa creezi partea de logare, folosind tabelele users si user_types din baza de date si fisierele din al doilea link. La utilizatorul normal, dupa logare as dori sa fie redirectionat spre pagina home.php, iar la admin as dori sa fie redirectionat spre pagina indexadmin.php.
 Paginile as dori sa fie legate de tabelul pagini din baza de date, in coloana nume_meniu sa fie butonul de pe nav-bar care duce la acea pagina, in coloana pagina sa fie fisierul php al paginii, iar in coloana meniu, unde apare 1 si 0 sa apara butonul pe navbar in functie de numar, daca e 1 sa apara, iar daca e 0 sa nu apara.
 As dori ca in tabelul drepturi din baza de date sa pot alege unde sa aiba acces fiecare tip de utilizator.
 As dori sa completezi aceste tabele din baza de date in functie de cerinte ca sa corespunda.
